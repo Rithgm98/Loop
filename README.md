@@ -1,2 +1,12 @@
-# Loop
-this code for make many word like I LOVE YOU 100time
+#include <iostream>
+using namespace std;
+int main(){
+
+for (int i = 1; i <= 1000; i++){
+cout<< i << " I LOVE YOU" << endl;
+
+return 0;
+
+}
+
+}
